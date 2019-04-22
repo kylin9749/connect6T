@@ -425,7 +425,7 @@ if __name__ == '__main__':
     n_in_row = 6
     use_gpu = False
     n_playout = 800
-    model_file = "model/10_10_6_current_policy_4.model"
+    model_file = "model/10_10_6_current_policy_5.model"
 #    model_file = "model/10_10_6_best_policy_3.model" 
     ai_first=True
 
